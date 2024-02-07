@@ -31,6 +31,7 @@ public class Sieve {
 			
 		}
 		System.out.println("Number of primes: " + numPrimes);
+		
 
 	}
 
